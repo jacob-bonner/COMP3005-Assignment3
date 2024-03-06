@@ -12,4 +12,6 @@ The application offers 5 different options as to what operations it can perform 
 (2) - This option is an implementation of the required addStudent function. It allows the user to enter a first name, last name, email, and date, all of which are inserted in the database as a new student entry.<br />
 (3) - This option is an implementation of the required updateStudentEmail function. It allows the user to enter a student id and an email. If an entry that corresponds with the student id exists, its email will be updated to the email the user entered.<br />
 (4) - This option is an implementation of the required deleteStudent function. It allows the user to enter a student id. If an entry that corresponds to the student id exists, it will be deleted from the database.<br />
-(0) - This option exits the application.
+(0) - This option exits the application.<br />
+
+In addition to the files provided for the application, an additional file called setup.sql has been provided. It contains the two queries used to initialize the students table and populate it with the initial data set.
