@@ -3,6 +3,7 @@ Console Java application that manipulates student PostgreSQL server
 
 This application was developed and tested using Windows Command Prompt. Compiling and running the application should be done in the directory containing Interact.java. Other sub directories needed to run this application hav been included with this repository.
 
+Unzip Jar File: tar xf postgresql-42.7.2.jar<br />
 Compilation Command: javac Interact.java <br />
 Run Command: java Interact.java <br />
 
