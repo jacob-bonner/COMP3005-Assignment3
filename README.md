@@ -14,4 +14,6 @@ The application offers 5 different options as to what operations it can perform 
 (4) - This option is an implementation of the required deleteStudent function. It allows the user to enter a student id. If an entry that corresponds to the student id exists, it will be deleted from the database.<br />
 (0) - This option exits the application.<br />
 
-In addition to the files provided for the application, an additional file called setup.sql has been provided. It contains the two queries used to initialize the students table and populate it with the initial data set.
+In addition to the files provided for the application, an additional file called setup.sql has been provided. It contains the two queries used to initialize the students table and populate it with the initial data set.<br />
+
+Link to video: https://youtu.be/3ClcExRUlVE
